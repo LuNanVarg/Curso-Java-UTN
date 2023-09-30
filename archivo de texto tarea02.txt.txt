@@ -1,2 +1,31 @@
 Primera linea y ademas lo hicimos de manera local. 
-Agregamos unas lineas para la prueba
+Agregamos unas lineas para la prueba. 
+
+Usaria este repositorio solo para la tarea de la clase 02. 
+1. Si aún no lo hizo, cree una cuenta en Github (o Gitlab si prefiere), e instale y configure
+el cliente de GIT que va a utilizar (colocando su nombre y dirección de correo
+electrónico), por ejemplo GitHub Desktop. 
+{Cree otra carpeta de prueba Curso-Java-UTN)
+2. Cree un repositorio remoto nuevo, sin ningún archivo y clonelo localmente. 
+Este es el repositorio creado: 
+https://github.com/LuNanVarg/Curso-Java-UTN
+3. Localmente, agregue un archivo txt, con un texto cualquiera, haga su primer commit y
+verifique que NO esté en el repositorio remoto. ¿Por qué no está?
+Falta realizar el push (branch).
+4. Ahora haga el push correspondiente y verifique que si esté
+5. Modifique el archivo desde la interfaz web de Github, verifique que dicho cambio NO
+está aplicado localmente ¿Por qué no está?
+6. Ahora ejecute el comando correspondiente para traer los cambios y verifique que son
+visibles.
+Realizar un pull (desde git local => abrir la consola [desde donde esta el repositorio local] => git pull [trae los cambios] )
+7. Vuelva a modificar el archivo desde la interfaz web de Github, y antes de hacer el pull,
+modifique algo DISTINTO en su copia local y haga un commit de dichos cambios.
+
+8. Ahora pruebe hacer un push de sus cambios. ¿Qué sucedió? ¿ cómo puede proseguir?
+Tenemos que resolver los problemas de los cambios. Elegir el cambio: 
+Aceptar cambio actual | Aceptar combio entrante | Aceptar ambos cambios | Comparar cambios. 
+Si queremos actualir realizar un push
+9. Arregle el problema
+Tambien se realizo un archivo .gitignore
+
+PD: Hace un año que estaba utilizando git y githud sin entenderlo, ahora entiendo mejor, muchas gracias. 
